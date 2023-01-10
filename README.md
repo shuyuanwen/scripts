@@ -2,6 +2,7 @@
 
 ## matlab 脚本
 - bmp2jpg.m    .bmp转.jpg
+- rgb_2_gray.m    rgb2gray
 
 ## python 脚本
 - json2txt.py labelme标注json转yolo-pose归一化数据集
